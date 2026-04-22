@@ -28,3 +28,5 @@ Size: 555,657
 
 ## Author
 Richard Osadolor Bamawo
+- LinkedIn : https://www.linkedin.com/in/richardbamawo/
+- GitHub : https://github.com/richardbamzosadolor-max
